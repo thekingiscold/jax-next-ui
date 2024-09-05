@@ -1,3 +1,18 @@
+Meet Jax - The Caption Generator, who will help users generate caption based on their uploaded image.
+We use LLaVA: Large Language and Vision Assistant under the hood.
+
+This application is work in progress. 
+
+It involves 3 components:
+1. Ollama (LLaVa multimodal model)
+2. NextJs and TailWind CSS (our UI)
+3. Spring Boot (API layer)
+
+This repo is the UI layer of the application.
+
+
+General Setup
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
