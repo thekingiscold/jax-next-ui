@@ -1,5 +1,5 @@
 "use client";
-export default function MoodLayout({
+export default function NameLayout({
     children,
   }: {
     children: React.ReactNode

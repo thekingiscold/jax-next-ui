@@ -1,5 +1,5 @@
 "use client";
-export default function MoodLayout({
+export default function ImageInsightLayout({
     children,
   }: {
     children: React.ReactNode
